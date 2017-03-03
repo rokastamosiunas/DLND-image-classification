@@ -1,2 +1,3 @@
 # DLND-image-classification
-Udacity nanodegree program
+
+Udacity nanodegree program - Project 2.
